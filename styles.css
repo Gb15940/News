@@ -34,11 +34,9 @@ header>div {
 
 header>div>img {
     display: flex;
-    display: inline-block;
-    margin-left: 50%;
+    margin-left: 45%;
     margin-right: auto;
-    width: 5%;
-    height: 5%;
+    width: 10%;
 }
 
 .nav {
@@ -107,6 +105,11 @@ footer>p {
 }
 
 h1 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+h2 {
     text-align: center;
     color: rgb(0, 0, 0);
 }
